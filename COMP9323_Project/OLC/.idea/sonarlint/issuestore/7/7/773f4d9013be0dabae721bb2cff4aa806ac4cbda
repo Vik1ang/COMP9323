@@ -1,0 +1,4 @@
+
+Upython:S112 ">Replace this generic exception class with a more specific one.(ýÇ÷–
+jpython:S5795+"MReplace this "is" operator with "=="; identity operator is not reliable here.(Ý’Ü°ÿÿÿÿÿ
+jpython:S57955"MReplace this "is" operator with "=="; identity operator is not reliable here.(Ý’Ü°ÿÿÿÿÿ
